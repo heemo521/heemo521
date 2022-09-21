@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <a href="mailto:heemo521@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=JeromeMTR&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=heemo521&style=for-the-badge" />
 </p> 
 
 <p align=center>
@@ -32,18 +32,14 @@ Here are some ideas to get you started:
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
 
-[GoalSeekr](https://github.com/AzureSource/GoalSeekr.git) [Full Stack] |[Questions & Answers Service](https://github.com/Elemental-Designs/QA-Service.git) [Back End]
+<!-- [GoalSeekr](https://github.com/AzureSource/GoalSeekr.git) [Full Stack] |[Questions & Answers Service](https://github.com/Elemental-Designs/QA-Service.git) [Back End]
   :-------------------------:|:-------------------------:
 ![](/assets/photos/temp.png) |  ![service](/assets/photos/maxALoadBalancer.png )
 
 [Rhydon](https://github.com/JeromeMTR/Rhydon.git) [Front End]         |    [Typo](https://github.com/JeromeMTR/Typo.git) [Full Stack]
   :-----------------------:|:-------------------------:
-![rhydon](/assets/photos/productoverview.png ) |  ![typo](/assets/photos/15seconds.png )
+![rhydon](/assets/photos/productoverview.png ) |  ![typo](/assets/photos/15seconds.png ) -->
 
-<!--
-<img src=/assets/photos/temp.png width='95%' align='center'> </img>
-<img src=/assets/photos/productoverview.png  width='75%' align='center'> </img>
--->
 <h2 align='center' paddingBottom='10px'> Tech Stack </h2>
 
 
