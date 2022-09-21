@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align='center' paddingBottom='10px'> Hii, I'm Jerome 👨🏽‍💻 </h1>
+<h1 align='center' paddingBottom='10px'> Hii, I'm Heemo 👨🏽‍💻 </h1>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/heemo-yang/">
