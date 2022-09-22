@@ -30,10 +30,8 @@
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
 
-[Apples2Oranges](https://github.com/ph-castle/apples2oranges) [Full Stack] 
+[Apples2Oranges](https://github.com/ph-castle/apples2oranges) [Full Stack] |
 
-[Micro-Service Architecture](https://github.com/Dexter-Laboratory/atelierBackend) [Back End]
-  :-------------------------:|:-------------------------:
 ![Apples2Oranges](https://i.imgur.com/zKfnLUM.gif) | 
 
 [NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [Record-Box](https://github.com/heemo521/record-box) [Front End]
