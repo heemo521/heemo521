@@ -15,7 +15,8 @@
 <h2 align='center' paddingBottom='10px'> About Me </h2>
 
 - 🔭 I’m currently working on [Secret Hilter](https://github.com/heemo521/secret_hitler/) [Full Stack] a hidden identity social deduction party game (Ask me about contributing to this project)
-![Secret Hitler](/assets/secret_hitler.png)
+
+![Secret Hitler](/secret3.jpg)
 
 - 🌱 I’m currently learning about DSA on [LeetCode](https://leetcode.com/) & [NextJS](https://nextjs.org/)
 
