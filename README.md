@@ -13,7 +13,7 @@
 <img src=https://github-readme-stats.vercel.app/api?username=heemo521&theme=gotham&show_icons=true />
 
 <p align=center>
-- 🔭 I’m currently working on <a href='https://github.com/heemo521/secret_hitler'>Secret Hilter</a> a hidden identity social deduction party game
+- 🔭 I’m currently working on [Secret Hilter](https://github.com/heemo521/secret_hitler) a hidden identity social deduction party game
 
 - 🌱 I’m currently learning about DSA & NextJS
 
