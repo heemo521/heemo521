@@ -9,18 +9,19 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=heemo521&style=for-the-badge" />
 </p> 
-
-<h2 align='center' paddingBottom='10px'>🔭 I’m currently working on <a href='https://github.com/heemo521/secret_hitler'>Secret Hilter</a> a hidden identity social deduction party game </h2>
-
-<h2 align='center' paddingBottom='10px'>🌱 I’m currently learning about DSA & NextJS</h2>
-
-<h2 align='center' paddingBottom='10px'>💬 Ask me about JavaScript & React</h2>
-
-<h2 align='center' paddingBottom='10px'>👯 I’m looking to collaborate on ...</h2>
-
 <p align=center>
 <img src=https://github-readme-stats.vercel.app/api?username=heemo521&theme=gotham&show_icons=true />
+
+<p align=center>
+- 🔭 I’m currently working on <a href='https://github.com/heemo521/secret_hitler'>Secret Hilter</a> a hidden identity social deduction party game
+
+- 🌱 I’m currently learning about DSA & NextJS
+
+- 💬 Ask me about JavaScript & React
+
+- 👯 I’m looking to collaborate on web or mobile applications using JavaScript and related libraries. 
 </p>
+
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
 
