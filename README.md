@@ -35,7 +35,7 @@
 
 [NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [Secret Hitler](https://github.com/heemo521/secret_hitler/) [Full Stack]
   :-----------------------:|:-------------------------:
-![NotNaked](/assets/photos/not_naked.png ) |  ![Secret Hitler](/assets/secret_hitler.png) -->
+![NotNaked](/assets/photos/not_naked.png ) |  ![Secret Hitler](/assets/secret_hitler.png)
 
 <h2 align='center' paddingBottom='10px'> Tech Stack </h2>
 
