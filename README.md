@@ -23,7 +23,7 @@
 
 - 🤔 I’m looking for help anyone who is considering coding bootcamp for a career change. I am a recent graduate Aug 2022. 
 
-- 📫 How to reach me: Please use the links displayed above for my LinkedIn or email. 
+- 📫 How to reach me: connect on [LinkedIn](https://www.linkedin.com/in/heemo-yang/) and send me a message or an [email](mailto:heemo521@gmail.com). 
 
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
