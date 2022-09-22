@@ -29,10 +29,10 @@
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
 
-[Apples2Oranges](https://github.com/ph-castle/apples2oranges) [Full Stack] | ![img|320x271](https://github.com/heemo521/secret_hitler/) [Full Stack]
+[Apples2Oranges](https://github.com/ph-castle/apples2oranges) [Full Stack] | ![Secret Hitler](https://github.com/heemo521/secret_hitler/) [Full Stack]
 :-----------------------:|:-------------------------:|
 Mutiplayer Card Matching Game | (Under Construction) Hidden Identity Social Deduction Game
-![Apples2Oranges](https://i.imgur.com/zKfnLUM.gif) | ![Secret Hilter|300x300](/secret4.webp) 
+![Apples2Oranges](https://i.imgur.com/zKfnLUM.gif) | !img|320x271](/secret4.webp) 
   
 [NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [Record-Box](https://github.com/heemo521/record-box) [Front End]
   :-----------------------:|:-------------------------:|
