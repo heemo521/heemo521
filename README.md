@@ -31,7 +31,7 @@
 
 [Apples2Oranges](https://github.com/ph-castle/apples2oranges) [Full Stack] | [Micro-Service Architecture](https://github.com/Dexter-Laboratory/atelierBackend) [Back End]
   :-------------------------:|:-------------------------:
-![Apples2Oranges](/assets/photos/apples_2_oranges.png) |  ![Micro-Service Architecture](/assets/photos/atelier_backend.png)
+![Apples2Oranges](https://i.imgur.com/zKfnLUM.gif) |  ![Micro-Service Architecture](/assets/photos/atelier_backend.png)
 
 [NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [Secret Hitler](https://github.com/heemo521/secret_hitler/) [Full Stack]
   :-----------------------:|:-------------------------:
