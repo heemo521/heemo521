@@ -14,7 +14,7 @@
 
 <h2 align='center' paddingBottom='10px'> About Me </h2>
 
-- 🔭 I’m currently working on [Secret Hilter](https://github.com/heemo521/secret_hitler/) a hidden identity social deduction party game. Ask me about contributing to this project.
+- 🔭 I’m currently working on [Secret Hilter](https://github.com/heemo521/secret_hitler/) a hidden identity social deduction party game (Ask me about contributing to this project)
 
 - 🌱 I’m currently learning about DSA on [LeetCode](https://leetcode.com/) & [NextJS](https://nextjs.org/)
 
@@ -24,7 +24,7 @@
 
 - 🤔 I’m looking for help anyone who is considering coding bootcamp for a career change (Bootcamp Graduate in Aug 2022)
 
-- 📫 How to reach me: connect on [LinkedIn](https://www.linkedin.com/in/heemo-yang/) and send me a message or an [email](mailto:heemo521@gmail.com). 
+- 📫 How to reach me: connect on [LinkedIn](https://www.linkedin.com/in/heemo-yang/) and send me a message or an [email](mailto:heemo521@gmail.com) 
 
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
