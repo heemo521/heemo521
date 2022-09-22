@@ -12,15 +12,15 @@
 <p align=center>
 <img src=https://github-readme-stats.vercel.app/api?username=heemo521&theme=gotham&show_icons=true />
 
-<p align=center>
+
 🔭 I’m currently working on [Secret Hilter](https://github.com/heemo521/secret_hitler/) a hidden identity social deduction party game
-This site was built using [GitHub Pages](https://pages.github.com/).
+
 - 🌱 I’m currently learning about DSA & NextJS
 
 - 💬 Ask me about JavaScript & React
 
 - 👯 I’m looking to collaborate on web or mobile applications using JavaScript and related libraries. 
-</p>
+
 
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
