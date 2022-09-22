@@ -33,9 +33,9 @@
 
 
 
-
 [Apples2Oranges](https://github.com/ph-castle/apples2oranges) [Full Stack] | [NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [Record-Box](https://github.com/heemo521/record-box) [Front End]
-Online Card Matching Multiplayer Party Game |  E-Commerce Product Details SPA |  Music Player with Image Search 
+  :-----------------------:|:-------------------------:|:-----------------------:
+E-Commerce Product Details SPA | E-Commerce Product Details SPA |  Music Player with Image Search 
 ![Apples2Oranges](https://i.imgur.com/zKfnLUM.gif) | ![NotNaked](/assets/photos/not_naked.png ) |  ![Record-Box](/assets/secret_hitler.png)
 
 [Micro-Service Architecture](https://github.com/Dexter-Laboratory/atelierBackend) [Back End]
