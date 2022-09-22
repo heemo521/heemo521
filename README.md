@@ -15,6 +15,8 @@
 <h2 align='center' paddingBottom='10px'> About Me </h2>
 
 - 🔭 I’m currently working on [Secret Hilter](https://github.com/heemo521/secret_hitler/) a hidden identity social deduction party game (Ask me about contributing to this project)
+[Secret Hitler](https://github.com/heemo521/secret_hitler/) [Full Stack]
+![Secret Hitler](/assets/secret_hitler.png)
 
 - 🌱 I’m currently learning about DSA on [LeetCode](https://leetcode.com/) & [NextJS](https://nextjs.org/)
 
@@ -33,9 +35,10 @@
   :-------------------------:|:-------------------------:
 ![Apples2Oranges](https://i.imgur.com/zKfnLUM.gif) |  ![Micro-Service Architecture](/assets/photos/atelier_backend.png)
 
-[NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [Secret Hitler](https://github.com/heemo521/secret_hitler/) [Full Stack]
+[NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [Record-Box](https://github.com/heemo521/record-box) [Full Stack]
   :-----------------------:|:-------------------------:
-![NotNaked](/assets/photos/not_naked.png ) |  ![Secret Hitler](/assets/secret_hitler.png)
+  E-Commerce Product Details SPA |  Music Player with Image Search 
+![NotNaked](/assets/photos/not_naked.png ) |  ![Record-Box](/assets/secret_hitler.png)
 
 <h2 align='center' paddingBottom='10px'> Tech Stack </h2>
 
