@@ -29,13 +29,13 @@
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
 
-<!-- [GoalSeekr](https://github.com/AzureSource/GoalSeekr.git) [Full Stack] |[Questions & Answers Service](https://github.com/Elemental-Designs/QA-Service.git) [Back End]
+[Apples2Oranges](https://github.com/AzureSource/GoalSeekr.git) [Full Stack] | [Micro-Service Architecture](https://github.com/Dexter-Laboratory/atelierBackend) [Back End]
   :-------------------------:|:-------------------------:
 ![](/assets/photos/temp.png) |  ![service](/assets/photos/maxALoadBalancer.png )
 
-[Rhydon](https://github.com/JeromeMTR/Rhydon.git) [Front End]         |    [Typo](https://github.com/JeromeMTR/Typo.git) [Full Stack]
+[NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [Secret Hitler](https://github.com/heemo521/secret_hitler/) [Full Stack]
   :-----------------------:|:-------------------------:
-![rhydon](/assets/photos/productoverview.png ) |  ![typo](/assets/photos/15seconds.png ) -->
+![NotNaked](/assets/photos/not_naked.png ) |  ![Secret Hitler](/assets/secret_hitler.png) -->
 
 <h2 align='center' paddingBottom='10px'> Tech Stack </h2>
 
