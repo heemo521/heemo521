@@ -1,13 +1,4 @@
-<!--
-**heemo521/heemo521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
-<h1 align='center' paddingBottom='10px'> Hii, I'm Heemo 👨🏽‍💻 </h1>
+<h1 align='center' paddingBottom='10px'> Hi, I'm Heemo 👨🏽‍💻 </h1>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/heemo-yang/">
@@ -19,11 +10,13 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=heemo521&style=for-the-badge" />
 </p> 
 
-<h2 align='center' paddingBottom='10px'>🔭 I’m currently working on <a href='https://github.com/heemo521/secret_hitler'>Secret Hilter</a>a hidden identity social deduction party game </h2>
+<h2 align='center' paddingBottom='10px'>🔭 I’m currently working on <a href='https://github.com/heemo521/secret_hitler'>Secret Hilter</a> a hidden identity social deduction party game </h2>
 
-<h2 align='center' paddingBottom='10px'>🌱 I’m currently learning ...</h2>
+<h2 align='center' paddingBottom='10px'>🌱 I’m currently learning about DSA & NextJS</h2>
 
-<h2 align='center' paddingBottom='10px'>🌱 I’m currently learning ...</h2>
+<h2 align='center' paddingBottom='10px'>💬 Ask me about JavaScript & React</h2>
+
+<h2 align='center' paddingBottom='10px'>👯 I’m looking to collaborate on ...</h2>
 
 <p align=center>
 <img src=https://github-readme-stats.vercel.app/api?username=heemo521&theme=gotham&show_icons=true />
