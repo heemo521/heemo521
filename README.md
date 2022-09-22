@@ -29,9 +29,9 @@
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
 
-[Apples2Oranges](https://github.com/AzureSource/GoalSeekr.git) [Full Stack] | [Micro-Service Architecture](https://github.com/Dexter-Laboratory/atelierBackend) [Back End]
+[Apples2Oranges](https://github.com/ph-castle/apples2oranges) [Full Stack] | [Micro-Service Architecture](https://github.com/Dexter-Laboratory/atelierBackend) [Back End]
   :-------------------------:|:-------------------------:
-![](/assets/photos/temp.png) |  ![service](/assets/photos/maxALoadBalancer.png )
+![Apples2Oranges](/assets/photos/apples_2_oranges.png) |  ![Micro-Service Architecture](/assets/photos/atelier_backend.png)
 
 [NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [Secret Hitler](https://github.com/heemo521/secret_hitler/) [Full Stack]
   :-----------------------:|:-------------------------:
