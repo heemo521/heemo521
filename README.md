@@ -33,7 +33,7 @@
 [Apples2Oranges](https://github.com/ph-castle/apples2oranges) [Full Stack] | [Secret Hilter](https://github.com/heemo521/secret_hitler/) [Full Stack]
 :-----------------------:|:-------------------------:|
 Mutiplayer Card Matching Game | (Under Construction) Hidden Identity Social Deduction Game
-![Apples2Oranges](https://i.imgur.com/zKfnLUM.gif) | ![Secret Hilter](/secret3.jpg) 
+![Apples2Oranges](https://i.imgur.com/zKfnLUM.gif) | ![Secret Hilter](/secret4.webp) 
   
 [NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [Record-Box](https://github.com/heemo521/record-box) [Front End]
   :-----------------------:|:-------------------------:|
