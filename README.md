@@ -35,7 +35,7 @@
   :-------------------------:|:-------------------------:
 ![Apples2Oranges](https://i.imgur.com/zKfnLUM.gif) |  ![Micro-Service Architecture](/assets/photos/atelier_backend.png)
 
-[NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [Record-Box](https://github.com/heemo521/record-box) [Full Stack]
+[NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [Record-Box](https://github.com/heemo521/record-box) [Front End]
   :-----------------------:|:-------------------------:
   E-Commerce Product Details SPA |  Music Player with Image Search 
 ![NotNaked](/assets/photos/not_naked.png ) |  ![Record-Box](/assets/secret_hitler.png)
