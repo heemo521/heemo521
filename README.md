@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on web or mobile applications using JavaScript and related libraries without limitations on context
 
-- 🤔 I’m looking for help anyone who is considering coding bootcamp for a career change (Bootcamp Graduate in Aug 2022)
+- 🤔 I’m looking to help anyone who is considering coding bootcamp for a career change (Bootcamp Graduate in Aug 2022)
 
 - 📫 How to reach me: connect on [LinkedIn](https://www.linkedin.com/in/heemo-yang/) and send me a message or an [email](mailto:heemo521@gmail.com) 
 
