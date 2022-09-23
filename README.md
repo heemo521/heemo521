@@ -37,7 +37,7 @@ Mutiplayer Card Matching Game | (Under Construction) Hidden Identity Social Dedu
 [NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [Record-Box](https://github.com/heemo521/record-box) [Front End]
   :-----------------------:|:-------------------------:|
 E-Commerce Product Details SPA |  Music Player with Image Search 
-![NotNaked](/assets/photos/not_naked.png ) |  ![Record-Box](https://i.imgur.com/MD2iUYf.gif)
+![NotNaked](https://i.imgur.com/4E0VDlx.gif) |  ![Record-Box](https://i.imgur.com/MD2iUYf.gif)
 
 <h2 align='center' paddingBottom='10px'> Tech Stack </h2>
 
