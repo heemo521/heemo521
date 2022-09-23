@@ -14,9 +14,9 @@
 
 <h2 align='center' paddingBottom='10px'> About Me </h2>
 
-- 🔭 I’m currently working on [Secret Hilter](https://github.com/heemo521/secret_hitler/)a hidden identity social deduction party game (Ask me about contributing to this project)
+- 🔭 I’m currently working on [Secret Hilter](https://github.com/heemo521/secret_hitler/) a hidden identity social deduction party game (Ask me about contributing to this project)
 
-- 🌱 I’m currently learning about DSA on [LeetCode](https://leetcode.com/) & [NextJS](https://nextjs.org/)
+- 🌱 I’m currently learning about DSA on [LeetCode](https://leetcode.com/) & awesome framework [NextJS](https://nextjs.org/)
 
 - 💬 Ask me about [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) & [React](https://reactjs.org/)
 
