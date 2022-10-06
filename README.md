@@ -1,14 +1,6 @@
 <h1 align='center' paddingBottom='10px'> Hi, I'm Heemo 👨🏽‍💻 </h1>
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/heemo-yang/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:heemo521@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=heemo521&style=for-the-badge" />
-</p> 
+
 <p align=center>
 <img src=https://github-readme-stats.vercel.app/api?username=heemo521&theme=gotham&show_icons=true />
 
