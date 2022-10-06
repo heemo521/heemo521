@@ -1,7 +1,11 @@
 <h1 align='center' paddingBottom='10px'> Hi, I'm Heemo 👨🏽‍💻 </h1>
 
 
-<p align=center>
+p align=center>
+<a href="http://www.github.com/heemo521"><img src="https://github-readme-stats.vercel.app/api?username=heemo521&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="Heemo's GitHub stats" /></a>
+<a href="http://www.github.com/heemo521"><img src="https://github-readme-streak-stats.herokuapp.com/?user=heemo521&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+</p>
+<a href="http://www.github.com/heemo521"><img src="https://activity-graph.herokuapp.com/graph?username=heemo521&bg_color=00181824&color=14b8a6&line=ffffff&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/heemo-yang/">
