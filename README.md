@@ -31,10 +31,10 @@
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
 
-[Apples2Oranges](https://github.com/ph-castle/apples2oranges) [Full Stack] [Demo](https://github.com) [Full Stack]
+[Apples2Oranges](https://github.com/ph-castle/apples2oranges) [Full Stack] [Demo](https://github.com/heemo521/demo_app) [Full Stack]
 :-----------------------:|:-------------------------:|
 Mutiplayer Card Matching Game | Demo App
-![Apples2Oranges](https://i.imgur.com/zKfnLUM.gif) | ![demoUno](https://i.imgur.com/bsWgCSU.gif)
+![Apples2Oranges](https://i.imgur.com/zKfnLUM.gif) | ![Demo](https://i.imgur.com/bsWgCSU.gif)
   
 [NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [Record-Box](https://github.com/heemo521/record-box) [Front End]
   :-----------------------:|:-------------------------:|
