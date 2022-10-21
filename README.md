@@ -18,9 +18,7 @@
 </p> 
 <h2 align='center' paddingBottom='10px'> About Me </h2>
 
-- 🔭 I’m currently working on [Secret Hilter](https://github.com/heemo521/secret_hitler/) a hidden identity social deduction party game (Ask me about contributing to this project)
-
-- 🌱 I’m currently learning about DSA on [LeetCode](https://leetcode.com/) & awesome framework [NextJS](https://nextjs.org/)
+- 🌱 I’m currently learning about DSA on [LeetCode](https://leetcode.com/)
 
 - 💬 Ask me about [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) & [React](https://reactjs.org/)
 
@@ -33,10 +31,10 @@
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
 
-[Apples2Oranges](https://github.com/ph-castle/apples2oranges) [Full Stack] | [Secret Hitler](https://github.com/heemo521/secret_hitler/) [Full Stack]
+[Apples2Oranges](https://github.com/ph-castle/apples2oranges) [Full Stack] [Demo](https://github.com) [Full Stack]
 :-----------------------:|:-------------------------:|
-Mutiplayer Card Matching Game | Hidden Identity Social Deduction Game
-![Apples2Oranges](https://i.imgur.com/zKfnLUM.gif) | ![Secret Hitler](/secret3m.jpeg) 
+Mutiplayer Card Matching Game | Demo App
+![Apples2Oranges](https://i.imgur.com/zKfnLUM.gif) | ![demoUno](https://i.imgur.com/bsWgCSU.gif)
   
 [NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [Record-Box](https://github.com/heemo521/record-box) [Front End]
   :-----------------------:|:-------------------------:|
