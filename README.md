@@ -28,9 +28,9 @@
 Search destinations to plan your Travel   | Demo App
 ![iOS Application](https://i.imgur.com/phACmy1m.png) | ![Demo](https://i.imgur.com/bsWgCSU.gif)
   
-[NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [iceBreaker](https://github.com/heemo521/record-box) [icebreaker-text-logo]
+[NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [iceBreaker](https://github.com/heemo521/record-box) [Full Stack]
   :-----------------------:|:-------------------------:|
-E-Commerce Product Details SPA |  Video chat for professionals!
+E-Commerce Product Details SPA |  Video chat application for professionals!
 ![NotNaked](https://i.imgur.com/4E0VDlx.gif) |  ![icebreaker-text-logo](https://user-images.githubusercontent.com/90360306/202524365-4800f8d4-1e7d-4a51-a4e1-01a9d8606638.png)
 
 <h2 align='center' paddingBottom='10px'> Tech Stack </h2>
