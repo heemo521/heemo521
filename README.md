@@ -26,7 +26,7 @@
 [Traveler](https://github.com/heemo521/Traveler) [iOS App / Swift] | [Demo](https://github.com/heemo521/demo_app) [Full Stack]
  :-----------------------:|:-------------------------:|
 Search destinations to plan your Travel   | Demo App
-![Main](https://i.imgur.com/48dazrwm.png) ![iOS Application](https://i.imgur.com/phACmy1m.png) | ![Demo](https://i.imgur.com/bsWgCSU.gif)
+![Main](https://i.imgur.com/48dazrwm.png) ![iOS Application](https://i.imgur.com/phACmy1m.png) ![Main](https://i.imgur.com/oZonTLKm.png) | ![Demo](https://i.imgur.com/bsWgCSU.gif)
   
 [NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [iceBreaker](https://github.com/heemo521/record-box) [Full Stack]
   :-----------------------:|:-------------------------:|
