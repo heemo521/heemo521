@@ -18,23 +18,15 @@
 </p> 
 <h2 align='center' paddingBottom='10px'> About Me </h2>
 
-- 🌱 I’m currently learning about DSA on [LeetCode](https://leetcode.com/)
-
-- 💬 Ask me about [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) & [React](https://reactjs.org/)
-
-- 👯 I’m looking to collaborate on web or mobile applications using JavaScript and related libraries without limitations on context
-
-- 🤔 I’m looking to help anyone who is considering coding bootcamp for a career change (Bootcamp Graduate in Aug 2022)
-
 - 📫 How to reach me: connect on [LinkedIn](https://www.linkedin.com/in/heemo-yang/) and send me a message or an [email](mailto:heemo521@gmail.com) 
 
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
 
-[Apples2Oranges](https://github.com/ph-castle/apples2oranges) [Full Stack] | [Demo](https://github.com/heemo521/demo_app) [Full Stack]
+[Traveler](https://github.com/heemo521/Traveler) [iOS App / Swift] | [Demo](https://github.com/heemo521/demo_app) [Full Stack]
  :-----------------------:|:-------------------------:|
-Mutiplayer Card Matching Game | Demo App
-![Apples2Oranges](https://i.imgur.com/zKfnLUM.gif) | ![Demo](https://i.imgur.com/bsWgCSU.gif)
+Search destinations to plan your Travel   | Demo App
+![iOS Application](https://i.imgur.com/phACmy1m.png) | ![Demo](https://i.imgur.com/bsWgCSU.gif)
   
 [NotNaked](https://github.com/teamduckhunt/NotNaked) [Front End] | [Record-Box](https://github.com/heemo521/record-box) [Front End]
   :-----------------------:|:-------------------------:|
